@@ -1,0 +1,28 @@
+{
+  "name": "twhite",
+  "version": "1.1.1",
+  "description": "Whitespace processor for finn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zulna10/twhite"
+  },
+  "keywords": [
+    "twhite",
+    "twhitespace",
+    "finn",
+    "rework"
+  ],
+  "author": "zulna10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zulna10/twhite/issues"
+  },
+  "homepage": "https://github.com/zulna10/twhite",
+  "dependencies": {
+    "css-whitespace": "1.1.x"
+  }
+}
